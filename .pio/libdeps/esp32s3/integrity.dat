@@ -1,0 +1,5 @@
+knolleary/PubSubClient@^2.8
+adafruit/Adafruit BME280 Library
+adafruit/Adafruit NeoPixel@^1.12.0
+adafruit/Adafruit Unified Sensor
+bblanchon/ArduinoJson@^6.18.5
